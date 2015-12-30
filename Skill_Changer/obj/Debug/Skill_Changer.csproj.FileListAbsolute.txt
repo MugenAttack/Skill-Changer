@@ -1,0 +1,9 @@
+c:\users\gaming-pc\documents\visual studio 2015\Projects\Skill_Changer\Skill_Changer\bin\Debug\Skill_Changer.exe.config
+c:\users\gaming-pc\documents\visual studio 2015\Projects\Skill_Changer\Skill_Changer\bin\Debug\Skill_Changer.exe
+c:\users\gaming-pc\documents\visual studio 2015\Projects\Skill_Changer\Skill_Changer\bin\Debug\Skill_Changer.pdb
+c:\users\gaming-pc\documents\visual studio 2015\Projects\Skill_Changer\Skill_Changer\obj\Debug\Skill_Changer.csprojResolveAssemblyReference.cache
+c:\users\gaming-pc\documents\visual studio 2015\Projects\Skill_Changer\Skill_Changer\obj\Debug\Skill_Changer.Form1.resources
+c:\users\gaming-pc\documents\visual studio 2015\Projects\Skill_Changer\Skill_Changer\obj\Debug\Skill_Changer.Properties.Resources.resources
+c:\users\gaming-pc\documents\visual studio 2015\Projects\Skill_Changer\Skill_Changer\obj\Debug\Skill_Changer.csproj.GenerateResource.Cache
+c:\users\gaming-pc\documents\visual studio 2015\Projects\Skill_Changer\Skill_Changer\obj\Debug\Skill_Changer.exe
+c:\users\gaming-pc\documents\visual studio 2015\Projects\Skill_Changer\Skill_Changer\obj\Debug\Skill_Changer.pdb
